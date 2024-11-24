@@ -12,7 +12,7 @@ export const Hero = () => {
         I’m a Data Scientist with 3+ years in Machine Learning, AI, and Data Analytics,
         specializing in data-driven solutions and cloud cost optimization. Reach out if you'd like to learn more!
         </p>
-        <a href="samitse19@gmail.com" className={styles.contactBtn}>
+        <a href="mailto:samitse19@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
