@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Data Scientist",
+    "organisation": "Clarkson University",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Optimized data warehouses for improved processing and analytics workflows.",
+      "Developed advanced machine learning models for predictive analytics and forecasting."
+    ],
+    "imageSrc": "history/Clarkoson.jpg"
+  },
+  {
+    "role": "Data Analyst",
+    "organisation": "ReScape Aerospace",
+    "startDate": "Sep, 2022",
+    "endDate": "June, 2023",
+    "experiences": [
+      "Designed interactive dashboards to aid strategic decision-making.",
+      "Built and optimized machine learning models",
+      "Processed large datasets to derive actionable insights for aerospace projects."
+    ],
+    "imageSrc": "history/rescape.jpg"
+  }
+]

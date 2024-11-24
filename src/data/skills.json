@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.png"
+  },
+  {
+    "title": "RStudio",
+    "imageSrc": "skills/R-modified.png"
+  },
+  
+  {
+    "title": "PowerBI",
+    "imageSrc": "skills/Powerbi-modified.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/Tab-modified.png"
+  },
+  {
+    "title": "Tensorflow",
+    "imageSrc": "skills/Tensorflow-modified.png"
+  },
+  {
+    "title": "Scikit-learn",
+    "imageSrc": "skills/sci-modified.png"
+  },
+  {
+    "title": " OpenCV",
+    "imageSrc": "skills/OpenCV-modified.png"
+  },
+ 
+  {
+    "title": "AWS",
+    "imageSrc": "skills/Aws-modified.png"
+  },
+  {
+    "title": "Talend",
+    "imageSrc": "skills/Talend_Logo-modified.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/Github-modified.png"
+  }, {
+    "title": "Jira",
+    "imageSrc": "skills/jira-modified.png"
+  }
+]

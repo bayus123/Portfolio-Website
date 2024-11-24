@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Predictive Model for Retinopathy",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a machine learning model for detecting diabetic retinopathy, using AWS and MySQL for data storage and processing.",
+    "skills": ["MySQL", "Python", "TensorFlow", "AWS"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Sales Forecasting Model",
+    "imageSrc": "projects/sale.jpg",
+    "description": "Built a forecasting model to predict sales trends, optimizing inventory and demand planning.",
+    "skills": ["TensorFlow", "Python", "SQL", "Power BI"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "30+ Data Warehouses Integration for Analytics",
+    "imageSrc": "projects/dataware.jpg",
+    "description": "Integrated 30+ data warehouses using AWS and MySQL, improving data access, processing, and reporting.",
+    "skills": ["AWS", "MySQL", "ETL", "SQL"]
+  },
+  {
+    "title": "Market Basket Analysis",
+    "imageSrc": "projects/market.jpg",
+    "description": "Performed market basket analysis for an e-commerce platform, utilizing association rule mining techniques to discover product purchase patterns and optimize cross-selling strategies.",
+    "skills": ["Data Analysis", "SQL", "Python", "Tableau"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Financial Forecasting for Stock Prices",
+    "imageSrc": "projects/sale.jpg",
+    "description": "Created a financial forecasting model for predicting stock prices using historical stock market data ",
+    "skills": ["Time Series Analysis", "Python", "TensorFlow", "SQL"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Image Segmentation for Medical Imaging",
+    "imageSrc": "projects/CNN.jpg",
+    "description": "Developed an image segmentation system for medical imaging data to segment out organs or anomalies. ",
+    "skills": ["Python", "TensorFlow", "Keras", "U-Net"],
+    "source": "https://www.github.com"
+  }
+  
+]
